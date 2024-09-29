@@ -452,7 +452,7 @@ figure {
 
   & .blog {
     box-shadow: var(--btn-box-shadow);
-    transition: scale 0.3s linear;
+    transition: scale 0.3s linear !important;
 
     &:hover {
       scale: 1.1;
