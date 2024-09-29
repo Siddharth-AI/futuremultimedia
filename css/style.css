@@ -66,6 +66,7 @@ li {
   max-width: 130rem;
   margin: 0 auto;
   padding: 9.6rem 2.4rem;
+  overflow-x: hidden;
 }
 
 :is(
